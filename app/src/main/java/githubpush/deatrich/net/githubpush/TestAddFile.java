@@ -5,4 +5,5 @@ package githubpush.deatrich.net.githubpush;
  */
 
 public class TestAddFile {
+    int i;
 }
